@@ -52,7 +52,7 @@ def lesson(meeting_id: str, password: str, total_time_in_minutes: int) -> Callab
 
 
 """
-specifie your meetings dates and times like this:
+specify your meetings dates and times like this:
 
 schedule.every().sunday.at("12:00").do(lesson(
     meeting_id=111 1111 1111,
