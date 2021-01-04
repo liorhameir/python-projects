@@ -1,4 +1,4 @@
-# this piece of code will open, close the camera and shut zoom down acording to what you specify.
+# this piece of code will open zoom, close the camera and shut zoom down according to what you specify.
 
 1. download the code
 2. specifiy the date, the time and the duration of your meetings.
